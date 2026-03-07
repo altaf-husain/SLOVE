@@ -23,4 +23,18 @@ SLOVE (Smart Glove Fluorescence) is a wearable sensing system designed to assist
 - The spectral data is processed using a Brix prediction model.
 - The predicted ripeness level is displayed on the OLED screen.
 
+## Schematic Design
 
+<p align="center">
+  <img src="Schematic.jpeg" width="600" />
+  <img src="Electrical.JPG" width="600" />
+</p>
+
+| Component | Function |
+|-----------|-----------|
+| Arduino Nano / ESP32 | Main microcontroller |
+| AS7262 Spectral Sensor | Spectral measurement |
+| UV LED | Fluorescence excitation |
+| OLED Display | Display measurement results |
+| Push Button | Trigger measurement |
+| Battery | Power supply |
