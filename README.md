@@ -1,9 +1,12 @@
-# SLOVE
-SLOVE : Smart Fluorescence-Based Glove for Simultaneous Harvesting and Ripeness Sorting of Crystal Guava
+# SLOVE : Smart Fluorescence-Based Glove for Simultaneous Harvesting and Ripeness Sorting of Crystal Guava
 
 SLOVE (Smart Glove Fluorescence) is a wearable sensing system designed to assist farmers in determining the ripeness of crystal guava fruits in a fast, non-destructive, and real-time manner. The device integrates a spectral sensor (AS7265x) with three illumination sources (UV, Visible, and Near Infrared) to capture optical signatures of the fruit. These spectral characteristics are correlated with fruit sweetness (°Brix) and ripeness level using chemometric or machine learning models. The glove-based design allows farmers to harvest and sort fruit ripeness simultaneously, improving efficiency in agricultural operations.
 
-Key Features
+<p align="center">
+  <img src="https://github.com/arutafusain/Pengering-Gabah/assets/98148350/81441ed1-14d4-4b12-857f-31be743a43e4" width="600" />
+</p>
+
+## Key Features
 Non-destructive fruit ripeness detection
 Wearable smart glove design
 Multi-spectral sensing using AS7265x
