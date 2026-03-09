@@ -51,3 +51,7 @@ The program begins by importing the required libraries for communication, sensor
 | Adafruit_SSD1306 | OLED display driver library | https://github.com/adafruit/Adafruit_SSD1306 |
 | RF_jambu.h | Random Forest model for guava ripeness classification | Included in this repository |
 | RF_jambu_brix.h | Random Forest model for Brix prediction | Included in this repository |
+
+you can check my project in Youtube bellow
+- https://youtu.be/ajxup2CWTZ0?si=leHLe59VPfrUehhh
+- https://youtu.be/c_wbpiDT6qc?si=Xc2bwbwPms-WVfRy
