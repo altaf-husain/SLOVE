@@ -7,14 +7,39 @@ SLOVE (Smart Glove Fluorescence) is a wearable sensing system designed to assist
   <img src="Slove2.JPG" width="400" />
 </p>
 
-## Key Features
-- Non-destructive fruit ripeness detection
-- Wearable smart glove design
-- Multi-spectral sensing using AS7265x
-- Three illumination sources : UV LED, Visible LED, Near Infrared LED
-- Real-time measurement
-- OLED display output
-- Portable and battery-powered system
+<h2>Project Contribution</h2>
+
+<p>
+In this project, I served as the <b>Project Leader</b> and was responsible for
+the overall technical development of the Smart Fluorescence-Based Glove (SLOVE).
+My role included designing the system architecture, selecting hardware
+components, integrating the AS726x spectral sensor with the Arduino platform,
+and developing the embedded software required for data acquisition and
+processing.
+</p>
+
+<p>
+I designed and assembled the electronic hardware, including sensor integration,
+LED illumination control, power management, and OLED display interfacing.
+Additionally, I developed the Arduino firmware used to collect spectral data,
+control the measurement sequence, and display prediction results in real time.
+</p>
+
+<p>
+I was also responsible for the machine learning implementation, including data
+collection, preprocessing, model training, validation, and deployment of the
+Random Forest models for ripeness classification and Brix prediction. The final
+machine learning models were converted into embedded C/C++ libraries and
+integrated into the microcontroller, enabling standalone operation without the
+need for external computing devices.
+</p>
+
+<p>
+As project leader, I coordinated project planning, task allocation, prototype
+development, testing, and system validation to ensure that the device met the
+intended objectives of simultaneous harvesting and ripeness sorting of crystal
+guava fruits.
+</p>
 
 ## How the System Works
 - The user places the sensor near the fruit surface.
